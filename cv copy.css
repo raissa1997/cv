@@ -1,0 +1,128 @@
+.template{
+    height: max-content;
+    width:max-content;
+}
+.form1{
+    background-color: #46485A;
+    border:2px solid black;
+   
+}
+.form2{
+    background-color: #ebebee;
+    border:2px solid rgb(181, 169, 169);
+
+}
+.photo{
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.un{
+    margin-left: 18px;
+    color: white;
+    margin-top: 3px;
+    border-bottom: 3px solid white;
+}
+.deux{
+    margin-left: 20px;
+    color: white;
+    margin-top: 10px;
+}
+#setnumber{
+    margin-left: 20px;
+    margin-top: 1px;
+    width: 250px;
+    background-color: #46485A;
+    border: none;
+    color: white;
+}
+#setemail{
+    margin-left: 20px;
+    margin-top: 1px;
+    width: 250px;
+    background-color: #46485A;
+    border: none;
+    color: #ebebee;
+}
+#setadresse{
+    margin-left: 20px;
+    margin-top: 1px;
+    width: 250px;
+    background-color: #46485A;
+    border: none;
+    color: #ebebee;
+}
+#degree{
+    margin-left: 3px;
+    margin-top: 1px;
+    width: 250px;
+    background-color:#46485A;
+    border: none;
+    color: #ebebee;
+    font-weight: 50%;
+}
+#university{
+    margin-left: 3px;
+    margin-top: 1px;
+    width: 250px;
+    background-color: #46485A;
+    border: none;
+    color: #ebebee;
+}
+.trois{
+   
+    color:black;
+    margin-top: 3px;
+    border-bottom: 3px solid black;
+}
+.quatre{
+    
+    color:black;
+    margin-top: 10px;
+}
+.so{
+    margin-top: 15px;
+    
+}
+
+#setemail2{
+    margin-left: 15px;
+    width: 200px;
+    margin-top: 6px;
+}
+#setemail1{
+    margin-left:15px ;
+    width: 200px;
+    margin-top: 6px;
+}
+#setnumber2{
+    margin-left: 8px;
+    width: 200px;
+    margin-top: 4px;
+}
+#setnumber1{
+    margin-left: 8px;
+    width: 200px;
+    margin-top: 4px;
+}
+#buttontelecharger{
+    width: 20%;
+    margin-left: 75%;
+    margin-top: 5%;
+    padding: 10px 15px;
+background: rgb(59, 59, 120);
+color: white;
+
+}
+.image{
+    background-color: bisque;
+    width: 250px;
+    height: 100px;
+    
+}
+
+
+
+
+
